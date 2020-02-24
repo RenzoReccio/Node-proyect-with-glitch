@@ -1,0 +1,25 @@
+{
+  "name": "resturant-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running, with a mongo database and basic operations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.2",
+    "body-parser": "^1.19.0"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://github.com/RenzoReccio/RestaurantProyectBasics"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
