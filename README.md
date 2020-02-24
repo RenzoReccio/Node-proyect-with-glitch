@@ -1,7 +1,7 @@
 Restaurant Proyect
 =================
 
-This is a basic proyect using Nodejs, Express and MongoDB. I use a restaurant as an example 
+This is a basic proyect using Nodejs, Express and MongoDB. I used a restaurant as an example 
 and work on basic operations such as add, remove, list and search.
 
 
