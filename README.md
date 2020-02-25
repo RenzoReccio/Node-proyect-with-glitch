@@ -1,4 +1,4 @@
-Restaurant Proyect
+Restaurant Proyect v1
 =================
 
 This is a basic proyect using Nodejs, Express and MongoDB. I used a restaurant as an example 
